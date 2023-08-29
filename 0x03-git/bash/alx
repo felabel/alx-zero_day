@@ -1,0 +1,4 @@
+#!/bin/bash
+Lecho "ALX"
+#!/bin/bash
+echo "ALX"
